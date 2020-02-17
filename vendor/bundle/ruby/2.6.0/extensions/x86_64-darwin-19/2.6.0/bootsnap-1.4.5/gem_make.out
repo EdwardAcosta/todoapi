@@ -1,0 +1,15 @@
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/next_rails/TodoAPi/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/edwardacosta/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/edwardacosta/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200213-1151-3vuict.rb extconf.rb
+creating Makefile
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/next_rails/TodoAPi/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/next_rails/TodoAPi/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/next_rails/TodoAPi/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200213-1151-l8mu85/bootsnap
