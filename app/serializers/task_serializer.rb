@@ -4,8 +4,7 @@ class TaskSerializer < ActiveModel::Serializer
 
   	attributes :id, :name, :priority, :converted_due_date
 
-	  	def converted_due_date
-	  	object.due_date.strftime('%A, %b %d')
-  		end
+  	def converted_due_date
+  	object.due_date.strftime('%A, %b %d')
 	end
 end
