@@ -1,5 +1,5 @@
 module Api::V1
-  class UserTokenController < Knock::AuthTokenController
+  class Api::UserTokenController < Knock::AuthTokenController
 	skip_before_action :verify_authenticity_token
   end
 end
